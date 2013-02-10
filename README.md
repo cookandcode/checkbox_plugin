@@ -14,13 +14,10 @@ Plugin for Checkbox (& Radio) input
 <p> To use this plugin, you must init with this command :  </p>
 <pre> $('input[type="checkbox"],input[type="radio"]').checkbox() </pre>
 
-<p> The format of your html input must be like this : 
-
-<br/>
+<p> The format of your html input must be like this : </p>
 
 <pre><input type="checkbox" name="check" value = "test"  data-label = "Ma reponse" data-answer-max="2"/><input type="checkbox" name="check" value = "test-2" data-label = "Ma reponse 2" data-answer-max="2"/><input type="checkbox" name="check" value = "test-3" data-label = "Ma reponse 3" data-answer-max="2"/><input type="checkbox" name="check" value = "test-4" data-label = "Ma reponse 4" data-answer-max="2"/>
 </pre>
-</p>
 
 <ul>
     <li> The "name" is the same for the checkbox group </li>
