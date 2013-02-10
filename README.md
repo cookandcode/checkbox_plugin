@@ -16,13 +16,12 @@ Plugin for Checkbox (& Radio) input
 
 <p> The format of your html input must be like this : </p>
 <div class="highlight">
-	<pre> 
+	<code>
 		<input type="checkbox" name="check" value = "test"  data-label = "Ma reponse" data-answer-max="2"/>
 		<input type="checkbox" name="check" value = "test-2" data-label = "Ma reponse 2" data-answer-max="2"/>
 		<input type="checkbox" name="check" value = "test-3" data-label = "Ma reponse 3" data-answer-max="2"/>
 		<input type="checkbox" name="check" value = "test-4" data-label = "Ma reponse 4" data-answer-max="2"/>
-		
-	</pre>
+	</code> 
 </div>
 <ul>
 	<li> The "name" is the same for the checkbox group </li>
