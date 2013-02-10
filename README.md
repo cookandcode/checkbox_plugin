@@ -5,8 +5,8 @@ Plugin for Checkbox (& Radio) input
 
 ## What you need
 
-- [JQuery]("http://jquery.com/")
-- [Wait plugin]("https://github.com/kookii/wait-plugin-js")
+- [JQuery](http://jquery.com/)
+- [Wait plugin](https://github.com/kookii/wait-plugin-js)
 
 
 ## Some explanations
@@ -39,4 +39,4 @@ For the radio input, it's the same except for the "data-answer-max" which is opt
 The css is simple, you can change everithing as you want
 
 ## Demo
-You can see a demo just [Here]("http://demo.lemalesaint.fr/checkbox_plugin/demo/")
+You can see a demo just [Here](http://demo.lemalesaint.fr/checkbox_plugin/demo/)
