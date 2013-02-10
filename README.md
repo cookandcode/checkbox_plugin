@@ -1,2 +1,2 @@
-checkbox_plugin
+Plugin for Checkbox (& Radio) input
 ===============
