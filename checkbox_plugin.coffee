@@ -36,7 +36,7 @@ $(document).ready(()->
                             #PLUGIN WAIT
                             $('body').wait(
                                 state:'show_message'
-                                message:'Vous avez atteint le nombre maximum de réponses' 
+                                message:'No more reponses are authorized' 
                                 time_out:2000
                             )
                     else
