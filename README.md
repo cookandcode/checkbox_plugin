@@ -24,7 +24,7 @@ The format of your html input must be like this :
     <input type="checkbox" name="check" value = "test-2" data-label = "Ma reponse 2" data-answer-max="2"/>
     <input type="checkbox" name="check" value = "test-3" data-label = "Ma reponse 3" data-answer-max="2"/>
     <input type="checkbox" name="check" value = "test-4" data-label = "Ma reponse 4" data-answer-max="2"/>
-``
+```
 
 - The "name" is the same for the checkbox group 
 - The "value" is the value of your checkbox 
