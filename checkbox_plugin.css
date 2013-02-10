@@ -1,0 +1,27 @@
+/*BLUE BUTTON */
+.checkbox_button
+{
+	padding: 2px 10px;
+	background:#E9E6DF;
+	box-shadow:0px 1px 2px #CCC8C0;
+	text-align: center;
+	cursor: pointer;
+	font-weight: bold;
+	display: block;
+	width: 150px;
+	margin: 10px 0;
+
+}
+.checkbox_button:hover{
+	box-shadow:0px 0px 3px 1px #CCC8C0;
+}
+.checkbox_button:active{
+	box-shadow:0px 1px 2px #CCC8C0 inset;
+}
+
+.checkbox_button.is_checked
+{
+	background:#A0BA95;
+	box-shadow:0px 1px 2px #90A786 inset;
+	color: white;
+}
